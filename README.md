@@ -33,7 +33,7 @@ Credenciales de la API:
 
 - Dirección: `http://143.198.118.203:8100`
 - Usuario: `test`
-- Contraseña: `test2023`
+- Contraseña: `xxxxxxx`
 
 ## Organización del código
 
