@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "579194189083",
+    "project_id": "examenfinal-261ac",
+    "storage_bucket": "examenfinal-261ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579194189083:android:82704f0361808f0ea8cfbe",
+        "android_client_info": {
+          "package_name": "com.example.ExamenFinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUBqktAZWQwB_fxUngTFQ9JiPKtRlBb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579194189083:android:98dba73671e589f9a8cfbe",
+        "android_client_info": {
+          "package_name": "com.example.app_t3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUBqktAZWQwB_fxUngTFQ9JiPKtRlBb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579194189083:android:c90f4ca1a1b6ef14a8cfbe",
+        "android_client_info": {
+          "package_name": "com.example.examen_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUBqktAZWQwB_fxUngTFQ9JiPKtRlBb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
